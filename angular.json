@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "thuchanh2"
+    }
+  },
+  "defaultProject": "thuchanh2",
+  "cli": {
+    "analytics": "6b43942c-042c-46f8-9f37-02be6b10b5b8"
+  }
 }
